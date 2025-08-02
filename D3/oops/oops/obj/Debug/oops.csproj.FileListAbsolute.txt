@@ -1,0 +1,8 @@
+C:\wipro\D3\oops\oops\bin\Debug\oops.exe.config
+C:\wipro\D3\oops\oops\bin\Debug\oops.exe
+C:\wipro\D3\oops\oops\bin\Debug\oops.pdb
+C:\wipro\D3\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\wipro\D3\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\wipro\D3\oops\oops\obj\Debug\oops.exe
+C:\wipro\D3\oops\oops\obj\Debug\oops.pdb
+C:\wipro\D3\oops\oops\obj\Debug\oops.exe.config
