@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\models\\rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\hotelbookingbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\hotelbookingbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\data\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\data\\hotelbookingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\hoteldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\models\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\models\\bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\hotelsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\hotelsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\dtos\\updatebookingstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\dtos\\updatebookingstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|c:\\capstone project\\hotelbookingbackendproject\\hotelbookingbackendproject\\hotelbookingbackend\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBFF3D5A-F971-437C-9450-25C0CF13D128}|HotelBookingBackend\\HotelBookingBackend.csproj|solutionrelative:hotelbookingbackend\\utils\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hotels.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Hotels.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Models\\Hotels.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Hotels.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Models\\Hotels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:21:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:25:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\RoomService.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Services\\RoomService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:27:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\appsettings.json",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\appsettings.json",
+              "RelativeToolTip": "HotelBookingBackend\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T05:32:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:25:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\BookingService.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Services\\BookingService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:23:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:38.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:59:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rooms.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Rooms.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Models\\Rooms.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Rooms.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Models\\Rooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:21:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:26:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HotelDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\HotelDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\HotelDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\HotelDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\HotelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:08:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelBookingBackend.csproj",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\HotelBookingBackend.csproj",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\HotelBookingBackend.csproj",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\HotelBookingBackend.csproj",
+              "RelativeToolTip": "HotelBookingBackend\\HotelBookingBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-27T05:19:47.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HotelBookingDbContext.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Data\\HotelBookingDbContext.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Data\\HotelBookingDbContext.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Data\\HotelBookingDbContext.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Data\\HotelBookingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:24:39.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:23:04.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:25:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:25:02.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Program.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Program.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Program.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Program.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAQwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:30:56.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Payments.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Models\\Payments.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Payments.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Models\\Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:21:54.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Models\\Users.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Users.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:20:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bookings.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Bookings.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Models\\Bookings.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Models\\Bookings.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Models\\Bookings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:21:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowFwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:23:22.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:22:10.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:22:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\PaymentService.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:23:54.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Services\\HotelService.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Services\\HotelService.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Services\\HotelService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:24:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\BookingDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\BookingDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\BookingDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:22:49.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HotelSearchDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\HotelSearchDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\HotelSearchDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\HotelSearchDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\HotelSearchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:55:01.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateBookingStatusDto.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UpdateBookingStatusDto.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\DTOs\\UpdateBookingStatusDto.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\DTOs\\UpdateBookingStatusDto.cs",
+              "RelativeToolTip": "HotelBookingBackend\\DTOs\\UpdateBookingStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:09:05.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Utils\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "HotelBookingBackend\\Utils\\ApiResponse.cs",
+              "ToolTip": "C:\\Capstone project\\HotelBookingBackendProject\\HotelBookingBackendProject\\HotelBookingBackend\\Utils\\ApiResponse.cs",
+              "RelativeToolTip": "HotelBookingBackend\\Utils\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T05:44:14.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

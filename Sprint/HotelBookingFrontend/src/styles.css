@@ -1,0 +1,48 @@
+:root{
+  --brand:#1e3a8a; /* navy */
+  --accent:#fbbf24; /* gold */
+  --bg:#f5f7fb;
+  --ink:#0f172a;
+  --muted:#475569;
+}
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;background:var(--bg);color:var(--ink)}
+a{text-decoration:none;color:inherit}
+button{font:inherit;cursor:pointer}
+.container{max-width:12000px;margin:0 auto;padding:1rem}
+.header{background:#fff;box-shadow:0 2px 12px rgba(0,0,0,.06)}
+.brand{color:var(--brand);font-weight:800}
+.nav{display:flex;align-items:center;gap:1rem}
+.nav a{color:var(--muted)}
+.nav a.active{color:var(--brand);font-weight:700}
+.btn{background:var(--brand);color:#fff;border:none;padding:.7rem 1rem;border-radius:.7rem}
+.btn:hover{filter:brightness(.95)}
+.btn.secondary{background:#e5e7eb;color:#111}
+.btn.ghost{background:transparent;border:1px solid #e5e7eb}
+.input{width:100%;padding:.7rem .9rem;border:1px solid #d8dee9;border-radius:.7rem;background:#fff}
+.select{width:100%;padding:.7rem .9rem;border:1px solid #d8dee9;border-radius:.7rem;background:#fff}
+.card{background:#fff;border-radius:1rem;box-shadow:0 4px 14px rgba(0,0,0,.08);overflow:hidden}
+.card-body{padding:1rem}
+.card img{width:100%;height:190px;object-fit:cover}
+.grid{display:grid;gap:1rem}
+.grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.badge{display:inline-block;border-radius:.6rem;padding:.25rem .5rem;background:#eef2ff;color:#3730a3;font-size:.8rem}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:.7rem;border-bottom:1px solid #eee;text-align:left}
+.hero {
+  position: relative;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+              url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80") center/cover;
+  color: white;
+  padding: 6rem 1rem;
+  text-align: center;
+}
+
+.hero::after{
+  content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.4),rgba(0,0,0,.5))
+}
+.hero > .inner{position:relative;z-index:1}
+.form-box{background:#fff;padding:2rem;border-radius:1rem;box-shadow:0 15px 28px rgba(2,6,23,.15)}
+.subtitle{color:#334155}
+.section-title{margin:2rem 0 1rem 0}
